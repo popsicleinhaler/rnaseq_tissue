@@ -38,6 +38,10 @@
    
     This folder contains the pickled dataframes
     doesn't include the data from DepMap (they were too large)
+    https://depmap.org/portal/download/
+    download CCLE_expression.csv and sample_info.csv
+    and place them here and then run data_prep.ipynb
+
 
  results folder
    
